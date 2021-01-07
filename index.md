@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
 
+![Image of Sky](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)
 You can use the [editor on GitHub](https://github.com/AlejandroM2000/AlejandroM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
