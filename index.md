@@ -1,38 +1,28 @@
 ## Welcome to GitHub Pages
 
+**Hope you Like my page**
+**It will be a lot of random items at this point because I do not know what put right now**
+
 ![Image of Sky](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)
-You can use the [editor on GitHub](https://github.com/AlejandroM2000/AlejandroM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Here is a link to one of my favorite videos:
+[YouTube](https://www.youtube.com/watch/dQw4w9WgXcQ)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+>Avengers Assemble <a name="abcd"></a>
 
-```markdown
-Syntax highlighted code block
+In C++, use the `size()` function to get the size of a vector
 
-# Header 1
-## Header 2
-### Header 3
+[favorite quote](#abcd)
 
-- Bulleted
-- List
+./_config.yml
 
-1. Numbered
-2. List
+# My favorite programming languages
+- Java
+- C++
+- C
 
-**Bold** and _Italic_ and `Code` text
+## Checklist
+- [x] Finish my lab
+- [ ] Finish the quarter
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlejandroM2000/AlejandroM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
